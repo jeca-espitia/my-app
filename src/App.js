@@ -5,8 +5,8 @@ import './App.css';
 function App() {
   return (
   <div className="App">
-  <h1>Hola Mundo</h1>
-  <p>Hola Mundo<strong>Hola Mundo</strong> Hola Mundo<em>Hola Mundo</em> Hola Mund</p>
+  <h1>Mi primera aplicación</h1>
+  <p>Esta es mi primera aplicación en React, está padrísimo!</p>
   </div>
   );
 }
